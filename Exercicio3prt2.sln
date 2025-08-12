@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36401.2 d17.14
+VisualStudioVersion = 17.14.36401.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio3prt2", "Exercicio3prt2\Exercicio3prt2.csproj", "{2987215B-4C7E-4FF8-A007-A34ED5B29CE4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConversorMoedas", "..\exercicio da aula\WindowsApp1\WindowsApp1\ConversorMoedas.vbproj", "{0E1FE387-2F65-4248-B2F3-954BAF748632}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2987215B-4C7E-4FF8-A007-A34ED5B29CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2987215B-4C7E-4FF8-A007-A34ED5B29CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2987215B-4C7E-4FF8-A007-A34ED5B29CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1FE387-2F65-4248-B2F3-954BAF748632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1FE387-2F65-4248-B2F3-954BAF748632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1FE387-2F65-4248-B2F3-954BAF748632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1FE387-2F65-4248-B2F3-954BAF748632}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
